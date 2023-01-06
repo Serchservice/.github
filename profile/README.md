@@ -32,6 +32,10 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 
 ## 🍿 console.log("Happy building!");
 
+## Meet the Serch Team!!! 🌈
+
+![Instagram post - 1 (1)](https://user-images.githubusercontent.com/98127258/211058691-ae5e0608-3731-49d3-b463-856a24142985.png)
+
 ## PS: We are still making some edits...
 
 
