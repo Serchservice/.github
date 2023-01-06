@@ -15,19 +15,19 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 ## 👩‍ Serch Social Media Links
 <div>
   <img src="instagram-2447888.png" width="30" height="30"/>
-  <a href="www.instagram.com/serchservice">Instagram - SerchService</a>
+  <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
 </div>
 <div>
   <img src="linkedin-2447889.png" width="30" height="30"/>
-  <a href="www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
+  <a href="https://www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
 </div>
 <div>
   <img src="twitter-2447905.png" width="30" height="30"/>
-  <a href="www.twitter.com/serchservice">Twitter - SerchService</a>
+  <a href="https://www.twitter.com/serchservice">Twitter - SerchService</a>
 </div>
 <div>
   <img src="youtube.png" width="30" height="30"/>
-  <a href="www.youtube.com/@serchservice">YouTube - SerchService</a>
+  <a href="https://www.youtube.com/@serchservice">YouTube - SerchService</a>
 </div>
 
 ## Meet the Serch Team!!! 🌈
