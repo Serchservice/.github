@@ -14,7 +14,10 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 
 ## 👩‍ Serch Social Media Links
 <div>
-  <img src="instagram-2447888.png" width="30" height="30"/>
+  <div style="width:60px; height:60px">
+    ![Instagram](/repository/.github/profile/instagram-2447888.png?raw=true)
+  </div>
+<!--   <img src="instagram-2447888.png" width="30" height="30"/> -->
   <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
 </div>
 <div>
