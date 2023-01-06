@@ -9,8 +9,8 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 ## People who contribute to the development of our platforms 🧙
 ![Instagram post - 1](https://user-images.githubusercontent.com/98127258/211050202-bcd35ff8-71bf-4108-9462-8cdd324fabe2.png)
 
-## 👩‍ Different Hastags
-##whatserchisbuilding ##serch ##sercher ##serchservice ##wyskas ##servicemadeeasy
+## 👩‍ Different Social Media Hastags
+#whatserchisbuilding #serch #sercher #serchservice #wyskas #servicemadeeasy
 
 ## 👩‍ Serch Social Media Links
 <div>
@@ -30,9 +30,9 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
   <a href="www.youtube.com/@serchservice">YouTube - SerchService</a>
 </div>
 
-## console.log("🍿 Happy building!");
+## 🍿 console.log("Happy building!");
 
-## Still making some edits...
+## PS: We are still making some edits...
 
 
 <!--
