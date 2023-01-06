@@ -13,10 +13,10 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 #whatserchisbuilding #serch #sercher #serchservice #wyskas #servicemadeeasy
 
 ## 👩‍ Serch Social Media Links
-![instagram-1](https://user-images.githubusercontent.com/98127258/211061364-c81ae1c7-77b7-46bc-8447-fd421a0da59e.png)
 <div>
+  ![instagram-1](https://user-images.githubusercontent.com/98127258/211061364-c81ae1c7-77b7-46bc-8447-fd421a0da59e.png)
   <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
-</div>
+<div>
 ![linkedin](https://user-images.githubusercontent.com/98127258/211061490-cfe2009d-0445-4629-8339-2cb2037fc6ce.png)
 <div>
   <a href="https://www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
