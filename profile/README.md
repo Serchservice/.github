@@ -1,8 +1,5 @@
 ## Hi there 👋
-<div style="width:100px; height:100px">
   https://user-images.githubusercontent.com/98127258/211062305-38139164-4b11-4037-bb60-1458d1855e40.mp4
-</div>
-
 🙋‍♀️ A short introduction
 
 Serch is a startup company on the verge of creating the best technology for comfortability. All about Serch is embedded on the ideology of comfortability, because man cannot make money and end up not enjoying it all in a more comfortable manner.
@@ -17,9 +14,7 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 
 ## 👩‍ Serch Social Media Links
 <div>
-  <div style="width:60px; height:60px">
-    ![instagram-1](https://user-images.githubusercontent.com/98127258/211061364-c81ae1c7-77b7-46bc-8447-fd421a0da59e.png)
-  </div>
+  ![instagram-1](https://user-images.githubusercontent.com/98127258/211061364-c81ae1c7-77b7-46bc-8447-fd421a0da59e.png)
   <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
 </div>
 <div>
