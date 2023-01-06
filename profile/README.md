@@ -14,22 +14,17 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 
 ## 👩‍ Serch Social Media Links
 <div>
-  ![instagram-1](https://user-images.githubusercontent.com/98127258/211061364-c81ae1c7-77b7-46bc-8447-fd421a0da59e.png)
   <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
 <div>
-![linkedin](https://user-images.githubusercontent.com/98127258/211061490-cfe2009d-0445-4629-8339-2cb2037fc6ce.png)
 <div>
   <a href="https://www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
 </div>
-![twitter-1](https://user-images.githubusercontent.com/98127258/211061543-46d0110d-4e01-4b45-bb99-6e051b308bae.png)
 <div>
   <a href="https://www.twitter.com/serchservice">Twitter - SerchService</a>
 </div>
-![youtube-button](https://user-images.githubusercontent.com/98127258/211062087-891c4a60-69f1-4205-9ac3-4de31dc204be.gif)
 <div>
   <a href="https://www.youtube.com/@serchservice">YouTube - SerchService</a>
 </div>
-![gmail](https://user-images.githubusercontent.com/98127258/211061659-bb9e148c-22af-44c9-8654-a2c8dac3fc24.png)
 <div>
   Coming soon
 </div>
