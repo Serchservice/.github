@@ -18,9 +18,12 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 #servicemadeeasy
 
 ## 👩‍ Serch Social Media Links
-<i class="fa-brands fa-instagram" width="100" height="100"></i> <a href="www.instagram.com/serchservice">Instagram - SerchService</a>
+<img src="instagram-2447888.png" width="50" height="50"></i> <a href="www.instagram.com/serchservice">Instagram - SerchService</a>
+
 <i class="fa-brands fa-square-twitter" width="50" height="50"></i> <a href="www.twitter.com/serchservice">Twitter - SerchService</a>
+
 <i class="fa-brands fa-youtube" width="50" height="50"></i> <a href="www.youtube.com/@serchservice">YouTube - SerchService</a>
+
 <i class="fa-brands fa-linkedin" width="50" height="50"></i> <a href="www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
 
 🍿 Happy building!
