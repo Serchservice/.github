@@ -10,13 +10,18 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 ![Instagram post - 1](https://user-images.githubusercontent.com/98127258/211050202-bcd35ff8-71bf-4108-9462-8cdd324fabe2.png)
 
 ## 👩‍ Different Hastags
-#whatserchisbuilding #serch #sercher #serchservice #wyskas #servicemadeeasy
+#whatserchisbuilding
+#serch
+#sercher
+#serchservice
+#wyskas
+#servicemadeeasy
 
 ## 👩‍ Serch Social Media Links
-<a href="www.instagram.com/serchservice">Instagram - SerchService</a>
-<a href="www.twitter.com/serchservice">Twitter - SerchService</a>
-<a href="www.youtube.com/@serchservice">YouTube - SerchService</a>
-<a href="www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
+<i class="fa-brands fa-instagram" width="50" height="50"></i> <a href="www.instagram.com/serchservice">Instagram - SerchService</a>
+<i class="fa-brands fa-square-twitter" width="50" height="50"></i> <a href="www.twitter.com/serchservice">Twitter - SerchService</a>
+<i class="fa-brands fa-youtube" width="50" height="50"></i> <a href="www.youtube.com/@serchservice">YouTube - SerchService</a>
+<i class="fa-brands fa-linkedin" width="50" height="50"></i> <a href="www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
 
 🍿 Happy building!
 
