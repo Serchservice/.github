@@ -19,21 +19,19 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 [![DeveloperCommunity](https://img.shields.io/badge/Discord-Join%20our%20Developer%20Community-orange)](https://discord.gg/8gqJb9cdgH)
 [![SGCommunity](https://img.shields.io/badge/Discord-Join%20our%20SGCommunity-blue)](https://discord.gg/p34S4x4fKB)
 [![SGCommunity](https://img.shields.io/badge/WhatsApp-Join%20our%20SGCommunity-orange)](hhtps://chat.whatsapp.com/IPWEBQi7HRG7jJQiOWdcJT)
-<div>
-  <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
-<div>
-<div>
-  <a href="https://www.linkedin.com/in/serchservice">LinkedIn - SerchService</a>
-</div>
-<div>
-  <a href="https://www.twitter.com/serchservice">Twitter - SerchService</a>
-</div>
-<div>
-  <a href="https://www.youtube.com/@serchservice">YouTube - SerchService</a>
-</div>
-<div>
-  Coming soon
-</div>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Serch%20on%20Instagram-red)](https://www.instagram.com/serchservice)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Serch%20on%20LinkedIn-blue)](https://www.linkedin.com/in/serchservice)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Serch%20on%20Twitter-blue)](https://www.twitter.com/serchservice)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Follow%20Serch%20on%20YouTube-red)](https://www.youtube.com/@serchservice)
+
+[![TikTok](https://img.shields.io/badge/TikTok-Follow%20us%20on%20TikTok-lightgrey)](https://www.tiktok.com/@serchservice)
+
+[![Email](https://img.shields.io/badge/Email-Send%20us%20an%20email-red)] Coming soon
 
 ## Meet the Serch Team!!! 🌈
 
