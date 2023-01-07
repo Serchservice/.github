@@ -38,7 +38,7 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 
 ![Instagram post - 1 (1)](https://user-images.githubusercontent.com/98127258/211058691-ae5e0608-3731-49d3-b463-856a24142985.png)
 
-## 🍿 console.log("Happy building!");
+## 🍿 ```console.log("Happy building!");```
 
 ## PS: We are still making some edits...
 
