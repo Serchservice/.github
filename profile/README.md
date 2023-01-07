@@ -16,9 +16,7 @@ Therefore, Serch sells comfortability to the people, with added exclusivity, sec
 #whatserchisbuilding #serch #sercher #serchservice #wyskas #servicemadeeasy
 
 ## 👩‍ Serch Social Media Links
-Feel like joining the Serch SGCommunity? <div style="width: 20px; height: 20px">
-  [![discord](https://user-images.githubusercontent.com/98127258/211151277-df0eee0c-8c71-4d33-9444-a19ec74e098a.png)](https://discord.gg/8gqJb9cdgH)
-<div>
+Feel like joining the Serch SGCommunity? [![discord](https://img.shields.io/badge/discord-SGCommunity-blue)](https://discord.gg/8gqJb9cdgH)
 <div>
   <a href="https://www.instagram.com/serchservice">Instagram - SerchService</a>
 <div>
